@@ -5,6 +5,8 @@
 - la commande pour installer les dépendances et démarrer l'API : cargo run
 
 ### A partir de l'image docker ###
+- à partir du serveur : 
+  * faire un docker compose up pour lancer le serveur 
 - pour lancer l'application à partir de l'image docker:
   * dans le navigateur entrer l'url : https://sfapishop.nocturlab.fr
 
